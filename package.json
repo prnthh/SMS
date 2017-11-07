@@ -9,6 +9,6 @@
   "author": "prnth",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "bonjour": "~3.5.0"
+    "bonjour": "^3.5.0"
   }
 }

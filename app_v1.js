@@ -1,6 +1,4 @@
 var bonjour = require('bonjour')();
-var express = require('express');
-var app = express();
 
 var stdin = process.openStdin();
 var loggedin = false;
